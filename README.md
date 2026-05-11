@@ -1,0 +1,2 @@
+# GenAI
+Google Genai assignments
